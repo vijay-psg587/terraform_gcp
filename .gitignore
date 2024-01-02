@@ -1,0 +1,8 @@
+.terraform.lock.hcl
+terraform.tfstate.backup
+config/key_loc
+output
+.terraform
+terraform.tfstate.backup
+terraform.tfstate
+.terraform.lock.hcl

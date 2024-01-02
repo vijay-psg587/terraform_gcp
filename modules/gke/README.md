@@ -1,0 +1,1 @@
+## THis is used to create Anthos in GKE cluster
